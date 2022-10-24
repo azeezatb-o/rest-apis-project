@@ -1,3 +1,3 @@
-# REST APIs Project
+# REST APIs with Flask and Python Project
 
 Nothing here yet!
